@@ -1,0 +1,17 @@
+{
+    "name": "ahmedelattar73/phpframework",
+    "description": "Implement starter php framework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Exceptions\\": "Exceptions/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adsad"
+        }
+    ],
+    "require": {}
+}
